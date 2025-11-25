@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Dashboard",
+  "description": "A modern, secure user dashboard featuring personalized AI-driven insights and motivation using Google Gemini.",
+  "requestFramePermissions": []
+}
